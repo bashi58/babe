@@ -52,5 +52,5 @@ def result():
 
 
 
-if __name__=="__main_":
-    application.run(use_reloader=True,debug=True)
+if __name__=="__main__":
+    application.run()
